@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dno77
+- 👋 Hi, I’m Sophia
 - 👀 I’m interested in all the tech stuff, from hardware to software
 - 🌱 I’m currently learning PHP but I also want to learn JavaScript later  
 - 💞️ I’m looking to collaborate on projects that I can put on my portfolio 
